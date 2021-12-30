@@ -12187,7 +12187,7 @@
     
     .widget-collapsible .widget-body {
         padding-top: 1rem;
-        padding-bottom: 2rem
+        padding-bottom: 2rem;
     }
     
     .filter-item {
@@ -17439,7 +17439,8 @@
     }
     
     .icon-eye:before {
-        content: '\e814'
+        content: '\e814';
+        font-size: 25px;
     }
     
     .icon-map-marker:before {
