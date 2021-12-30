@@ -1,0 +1,7 @@
+#8ec343
+green
+#e61f7b
+pink
+
+#160d54
+blue
